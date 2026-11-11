@@ -11,4 +11,8 @@
     <image:image><image:loc>https://mts2fun.github.io/mono/img/purple-flowers.webp</image:loc></image:image>
     <image:image><image:loc>https://mts2fun.github.io/mono/img/skirt-city.webp</image:loc></image:image>
   </url>
+  <url>
+    <loc>https://mts2fun.github.io/mono/color/</loc>
+    <lastmod>2026-11-11</lastmod>
+  </url>
 </urlset>
